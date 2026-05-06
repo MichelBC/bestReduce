@@ -201,3 +201,9 @@ See the `LICENSE` file for details.
 Michel B. Cordeiro
 Federal University of Paraná (UFPR)
 Email: [michel.brasil.c@gmail.com](mailto:michel.brasil.c@gmail.com)
+
+or
+
+Wagner M. Nunan Zola
+Federal University of Paraná (UFPR)
+Email: zola@ufpr.br
