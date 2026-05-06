@@ -7,11 +7,18 @@
 Please cite the corresponding papers if it was useful for your research:
 
 ```bibtex
-@article{cordeiro2025bestreduce,
-  title={Optimized Parallel Reduction for Regular and Irregular Segments on GPU},
-  author={Cordeiro, Michel B. and Zola, Wagner M. N.},
-  journal={Concurrency and Computation: Practice and Experience},
-  year={2025}
+@article{cordeiro2026bestreduce,
+  author = {Cordeiro, Michel B. and Nunan Zola, Wagner M.},
+  title = {Optimized Parallel Reduction for Regular and Irregular Segments on GPU},
+  journal = {Concurrency and Computation: Practice and Experience},
+  volume = {38},
+  number = {8},
+  pages = {e70715},
+  keywords = {CUDA programming, data-parallel algorithms, GPU acceleration, performance optimization, segmented parallel reduction},
+  doi = {https://doi.org/10.1002/cpe.70715},
+  url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.70715},
+  eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/cpe.70715},
+  year = {2026}
 }
 ```
 
