@@ -2,6 +2,12 @@
 
 ---
 
+# Open access paper
+
+This work is described in the **open access** paper available at:
+
+https://onlinelibrary.wiley.com/doi/full/10.1002/cpe.70715
+
 # Citation
 
 Please cite the corresponding papers if it was useful for your research:
