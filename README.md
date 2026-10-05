@@ -8,7 +8,7 @@ The paper is **open access and freely available to everyone**.
 
 **[Optimized Parallel Reduction for Regular and Irregular Segments on GPU](https://onlinelibrary.wiley.com/doi/full/10.1002/cpe.70715)**
 
-👉 **[Read the full paper](https://onlinelibrary.wiley.com/doi/full/10.1002/cpe.70715)**
+👉 **[Read the full paper](https://onlinelibrary.wiley.com/doi/pdf/10.1002/cpe.70715)**
 
 The paper presents **BestReduce**, an optimized GPU implementation for parallel reduction on both regular and irregular segments, with a focus on efficient CUDA execution and performance optimization.
 
